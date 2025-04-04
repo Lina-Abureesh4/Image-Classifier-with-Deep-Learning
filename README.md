@@ -38,6 +38,6 @@ The project consists of two main parts:
 
 ## 📄 Acknowledgements
 
-This project was completed as part of the [Intro to Machine Learning with TensorFlow Nanodegree]([https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230]),  
+This project was completed as part of the [Intro to Machine Learning with TensorFlow Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230),  
 under the **Palestine Launch Pad Scholarship** sponsored by **Google** and **Udacity**.
 
